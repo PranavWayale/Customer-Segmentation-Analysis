@@ -43,6 +43,12 @@ Sales and Profit Trends: Analyze overall performance across regions and time.
 Customer Segmentation Visualization: Highlight key customer groups.
 Top Products and Categories: Identify the best-performing items.
 
+
+#Screenshot Of the Project
+
+![Image](https://github.com/user-attachments/assets/5bd7360e-b119-41cf-8b63-30e8b84b4715)
+
+![Image](https://github.com/user-attachments/assets/48e05039-692b-49bd-990f-b7aa4243c8f9)
 🚀 Project Outcomes
 Improved understanding of customer behavior.
 Identified opportunities for targeted marketing campaigns.
